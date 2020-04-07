@@ -1,0 +1,35 @@
+/* Base styles, variables, mixins, etc*/
+
+@import "base/_variables.scss";
+@import "base/_mixins.scss";
+@import "base/_base.scss";
+
+/* Components */
+//@import "components/_backgrounds.scss";
+//@import "components/_buttons.scss";
+//@import "components/_calendar.scss";
+//@import "components/_cards.scss";
+
+@import "components/_elements.scss";
+//@import "components/_footer.scss";
+//@import "components/_headers.scss";
+//@import "components/_modal.scss";
+//@import "components/_nav.scss";
+//@import "components/_parallax.scss";
+//@import "components/_property-card.scss";
+
+//@import "components/_sale.scss";
+//@import "components/_spacings.scss";
+@import "components/_swiper.scss";
+//@import "components/_stats.scss";
+//@import "components/_tabs.scss";
+//@import "components/_timeline.scss";
+@import "components/_testimonials.scss";
+@import "components/_typography.scss";
+//@import "components/_video.scss";
+
+
+
+/* Media queries */
+@import "mediaqueries/_screens.scss";
+
